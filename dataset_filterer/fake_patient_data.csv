@@ -1,0 +1,11 @@
+PatientID,FirstName,LastName,DateOfBirth,Gender,BloodType,Height_cm,Weight_kg,Allergies,Diagnosis
+1,John,Doe,1985-05-23,M,A+,175,70,Peanuts,Hypertension
+2,Jane,Smith,1990-12-01,F,AB-,165,55,Penicillin,Asthma
+3,Michael,Brown,1972-07-14,M,O+,180,85,None,Diabetes
+4,Emily,Davis,1988-03-29,F,B-,160,60,Shellfish,Depression
+5,David,Wilson,1995-09-10,M,A-,185,78,Lactose,Anxiety
+6,Sarah,Johnson,1980-11-22,F,O+,170,65,None,High Cholesterol
+7,Robert,Anderson,1975-06-18,M,AB+,190,90,Sulfonamides,Epilepsy
+8,Amanda,Thompson,1993-04-05,F,B+,155,50,None,Arthritis
+9,Joseph,Garcia,1987-01-30,M,O-,175,72,Gluten,IBS
+10,Linda,Martinez,1991-08-15,F,A+,168,58,None,PCOS
