@@ -1,0 +1,27 @@
+{
+    "id": "EF6A98C1",
+    "path": "~/r_projects/shiny_doc_generator/shiny_doc_generator/server.R",
+    "project_path": "shiny_doc_generator/server.R",
+    "type": "r_source",
+    "hash": "3178010997",
+    "contents": "",
+    "dirty": false,
+    "created": 1727240147289.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "76,5",
+        "scrollLine": "0",
+        "disableDependencyDiscovery": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1727426380,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1727426380869,
+    "read_only": false,
+    "read_only_alternatives": []
+}
